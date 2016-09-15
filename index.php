@@ -14,8 +14,10 @@
   <br/>
   <?php echo "Hello World !"; ?><br />
   <img src="images/guidePuppy1.png" width="250px" height="200px">
-  <ul><li><a href="aboutme.php">About Me</a></li>
-    <li><a href="projPortfolio.php">Project Portfolio</a></li>
+  <ul>
+    <li><a href="aboutme.php">About Me</a></li>
+    <li><a href="#">Healing Methodologies</a></li>
+
   <ul>
     <br />
      <?php echo "Last modified: " . date ("F d Y H:i:s.", getlastmod()); ?>
