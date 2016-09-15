@@ -4,6 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <title>Home Page for Class Project</title>
+    <link rel="stylesheet" href="pure_css/pure.css">
     </head>
 
 
@@ -13,5 +14,8 @@
   <br/>
   <?php echo "Hello World !"; ?><br />
   <img src="images/guidePuppy1.png" width="250px" height="200px">
+  <ul><li><a href="aboutme.php">About Me</a></li>
+    <li><a href="projPortfolio.php">Project Portfolio</a></li>
+  <ul>
 </body>
 </html>
