@@ -6,11 +6,15 @@
     <title>About Me Functions </title>
     <link rel="stylesheet" href="pure_css/pure.css">
     </head>
-    <br/>
-    <a href="index.php">Home</a>
-    <br/>
+
 
 <body>
+  <br/>
+  <a href="index.php">Home</a>
+  <br/>
 
+<?php
+echo "Last modified: " . date ("F d Y H:i:s.", getlastmod());
+?>
 </body>
 </html>

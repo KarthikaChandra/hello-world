@@ -6,6 +6,7 @@
     <title>String Functions </title>
     <link rel="stylesheet" href="pure_css/pure.css">
     </head>
+    <body>
     <br/>
     <a href="index.php">Home</a>
     <br/>
@@ -17,7 +18,9 @@ These are the placeholders for my projects - DWA - Harvard Online Extension Scho
   <li>  <a href="#">P4 Project</a></li>
 
 </ol>
-<body>
+<?php
+echo "Last modified: " . date ("F d Y H:i:s.", getlastmod());
+?>
 
 </body>
 </html>
