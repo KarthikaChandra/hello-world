@@ -1,5 +1,5 @@
 Changes made to Working directory on October 17, 2016
- 
+
 # Hello World
 GIT HUB URL
 https://github.com/KarthikaChandra/hello-world
@@ -10,4 +10,4 @@ LIVE URL
 http://bheshaj.com
 http://helloworld.bheshaj.com
 http://helloworld.bheshaj.com/
-Last changes made on September 15, 2015
+Last changes made on October 17, 2016 after everything broke & was re-surrected
