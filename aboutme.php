@@ -32,24 +32,34 @@
   </p>
 
   <p><u>Current Situation</u>
-    I am recovering from an accident related surgery and will be starting
-     a new position in a health care IT firm in Philly as SharePoint analyst soon.
-     <i>Very excited about this.</i>
-     <br />Was very fortunate to have excellent care at the hospital and at home.
-     The whole theme of my projects will be healing applying conventional and non conventional methodologies.<br >
+    I have overcome a major health setback and working in a Health Care IT @ Philadelphia.
+
+     The them of my final project will be healing - applying conventional and non conventional methodologies.<br >
   </p>
   <h3>Listing of  projects</h3>
   <ol>
-    <li>  <a href="aboutme.php">P1 Project - Completed</a></li>
+    <li>  <a href="aboutme.php">P1 Project </a></li>
     <ul>
         <li><a href="https://github.com/KarthikaChandra/hello-world" target="_blank">Git Hub Repository for Hello World &nbsp;<img src="images/extlink1.png"></a></li>
-        <li><a href="http://www.bheshaj.com" target="_blank">Production Web Site - Bheshaj.com &nbsp;<img src="images/extlink1.png"></a></li>
-        <li><a href="http://helloworld.bheshaj.com" target="_blank">HelloWorld.bheshaj.com &nbsp;<img src="images/extlink1.png"></a></li>
+        <li><a href="http://www.bheshaj.com" target="_blank">Production Web Site - Bheshaj.com</a></li>
+        <li><a href="http://helloworld.bheshaj.com" target="_blank">HelloWorld.bheshaj.com</a></li>
     </ul>
-    <li>  <a href="#">P2 Project</a></li>
-    <li>  <a href="#">P3 Project</a></li>
-    <li>  <a href="#">P4 Project</a></li>
+    <li>P2 Project - Password Generator</li>
+        <ul>
+            <li><a href="https://github.com/KarthikaChandra/P2_KC">Git Hub Repository for P2 &nbsp;<img src="images/extlink1.png"></a></li>
+            <li><a href="http://p2_kc.bheshaj.com/">P2 Project - Production Link</a></li>
+        </ul>
 
+    <li>P3 Project - Developer's Best Friend</li>
+        <ul>
+            <li><a href="https://github.com/KarthikaChandra/P2_KC">Git Hub Repository for P2 &nbsp;<img src="images/extlink1.png"></a></li>
+            <li><a href="http://p2_kc.bheshaj.com/">P3 Project - Production Link</a></li>
+        </ul>
+    <li>P4 Project - Healing Methodologies</li>
+            <ul>
+                <li><a href="https://github.com/KarthikaChandra/P4">Git Hub Repository for P2 &nbsp;<img src="images/extlink1.png"></a></li>
+                <li><a href="http://P4.bheshaj.com/">P4 Project - Production Link</a></li>
+            </ul>
   </ol>
   <h3>Portfolio</h3>
   <ul>
