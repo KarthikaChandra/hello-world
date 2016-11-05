@@ -52,13 +52,13 @@
 
     <li>P3 Project - Developer's Best Friend</li>
         <ul>
-            <li><a href="https://github.com/KarthikaChandra/P2_KC">Git Hub Repository for P2 &nbsp;<img src="images/extlink1.png"></a></li>
-            <li><a href="http://p2_kc.bheshaj.com/">P3 Project - Production Link</a></li>
+            <li><a href="https://github.com/KarthikaChandra/P3">Git Hub Repository for P3 &nbsp;<img src="images/extlink1.png"></a></li>
+            <li><a href="http://p3.bheshaj.com/">P3 Project - Production Link</a></li>
         </ul>
     <li>P4 Project - Healing Methodologies</li>
             <ul>
-                <li><a href="https://github.com/KarthikaChandra/P4">Git Hub Repository for P2 &nbsp;<img src="images/extlink1.png"></a></li>
-                <li><a href="http://P4.bheshaj.com/">P4 Project - Production Link</a></li>
+                <li><a href="https://github.com/KarthikaChandra/P4">Git Hub Repository for P4 &nbsp;<img src="images/extlink1.png"></a></li>
+                <li><a href="http://p4.bheshaj.com/">P4 Project - Production Link</a></li>
             </ul>
   </ol>
   <h3>Portfolio</h3>
